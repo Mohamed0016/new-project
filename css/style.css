@@ -1,0 +1,27 @@
+.container {
+    color: rgb(160, 99, 218);
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    background-image: url("../imgs1/taswira.jpg");
+    background-size: cover;
+    background-position: center;
+  };
+  h1 {
+    margin-top: 50px;
+  }
+  #loginForm, #searchForm {
+    margin-top: 20px;
+  }
+  
+  input, button {
+    margin: 5px;
+  }
+  #musicContainer {
+    margin-top: 50px;
+  }
+  #musicContainer audio {
+    width: 100%;
+    margin-top: 10px;
+  }
+  
